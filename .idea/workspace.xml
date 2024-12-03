@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_lesson2/python_homework2_2.py" afterDir="false" />
+    <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_lesson1/python_homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_lesson2/python_homework2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_lesson2/python_homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_lesson1/python_homework1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_lesson2/python_homework2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_lesson2/python_homework2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_lesson2/python_homework2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_lesson2/python_homework2_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Python_lesson2/python_homework2_1.py" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -67,6 +68,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.python_homework1.executor": "Run",
     "Python.python_homework2_1.executor": "Run",
+    "Python.python_homework2_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -76,7 +78,8 @@
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
-      "directory"
+      "directory",
+      "repository"
     ]
   }
 }]]></component>
@@ -102,6 +105,15 @@
       <option name="presentableId" value="Default" />
       <updated>1733175894317</updated>
     </task>
+    <task id="LOCAL-00001" summary="dz2">
+      <option name="closed" value="true" />
+      <created>1733184248634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733184248634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2" />
   </component>
 </project>
