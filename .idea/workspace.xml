@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz2">
-      <change beforePath="$PROJECT_DIR$/Tests_lessons/test_lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests_lessons/test_lesson_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_lessons/test_lesson_2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests_lessons/test_lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests_lessons/test_lesson_2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +69,13 @@
     "Python.python_homework1.executor": "Run",
     "Python.python_homework2_1.executor": "Run",
     "Python.python_homework2_2.executor": "Run",
+    "Python.test_lesson_2.2.executor": "Run",
     "Python.test_lesson_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/PythonProject/Hillel_Python_learning/Python_lesson2",
+    "last_opened_file_path": "C:/PythonProject/Hillel_Python_learning/Tests_lessons",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
@@ -84,6 +87,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons" />
       <recent name="C:\PythonProject\Hillel_Python_learning\Python_lesson2" />
       <recent name="C:\PythonProject\Hillel_Python_learning" />
     </key>
@@ -128,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733187274680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dz2">
+      <option name="closed" value="true" />
+      <created>1733187827406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733187827406</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
