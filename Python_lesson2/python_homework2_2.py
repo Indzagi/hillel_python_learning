@@ -1,4 +1,4 @@
-number5 = int(input('Будь ласка, введіть 5-х значне число: '))
+number5 = int(input('Будь ласка, введіть 5-ти значне число: '))
 
 first_numb = number5 // 10000
 second_numb = number5 % 10000 // 1000
