@@ -2,7 +2,7 @@ my_list = [0, 1, 7, 2, 4, 8]
 # my_list = [1, 3, 5]
 # my_list = [6]
 # my_list = []
-1
+
 if len(my_list) > 1:
     my_list_len = round(len(my_list) / 2)
     my_temp_list = []
