@@ -8,8 +8,8 @@ else:
     first_lend = int(len(my_base_list) / 2 + 1)
     second_lend = len(my_base_list) - first_lend
 
-my_first_list = my_base_list [0:first_lend]
-my_second_list = my_base_list [first_lend:len(my_base_list)]
+my_first_list = my_base_list[0:first_lend]
+my_second_list = my_base_list[first_lend:len(my_base_list)]
 
 my_list_final = [my_first_list, my_second_list]
 print(my_list_final)
