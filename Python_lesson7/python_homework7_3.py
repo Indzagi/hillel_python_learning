@@ -9,7 +9,7 @@ def second_index(text: str, some_str: str):
     return my_index
 
 
-second_index("sims", "s")
-second_index("find the river", "e")
+assert second_index("sims", "s")
+assert second_index("find the river", "e")
 second_index("hi", "h")
-second_index("Hello, hello", "lo")
+assert second_index("Hello, hello", "lo")
