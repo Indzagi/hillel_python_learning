@@ -3,10 +3,11 @@ def second_index(text: str, some_str: str):
         my_index = text.find(some_str)
         my_index = text.find(some_str, my_index + 1)
         print(my_index)
+        return my_index
     else:
         print(None)
         return None
-    return my_index
+
 
 
 assert second_index("sims", "s")

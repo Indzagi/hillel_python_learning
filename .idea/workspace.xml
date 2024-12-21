@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz6">
-      <change afterPath="$PROJECT_DIR$/Python_lesson7/python_homework7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_lesson7/python_homework7_1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_lesson7/python_homework7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_lesson7/python_homework7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_lesson7/python_homework7_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests_lessons/lesson_7/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +141,7 @@
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python_homework7_4">
+  <component name="RunManager" selected="Python.python_homework7_3">
     <configuration name="python_homework7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Python_learning" />
       <option name="ENV_FILES" value="" />
@@ -262,8 +254,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python_homework7_4" />
         <item itemvalue="Python.python_homework7_3" />
+        <item itemvalue="Python.python_homework7_4" />
         <item itemvalue="Python.python_homework7_2" />
         <item itemvalue="Python.python_homework7_1_1 (1)" />
         <item itemvalue="Python.python_homework7_1" />
@@ -414,7 +406,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734783262049</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="dz7">
+      <option name="closed" value="true" />
+      <created>1734806100450</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734806100450</updated>
+    </task>
+    <task id="LOCAL-00018" summary="dz7">
+      <option name="closed" value="true" />
+      <created>1734806181159</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1734806181159</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,6 +442,7 @@
     <MESSAGE value="dz4" />
     <MESSAGE value="dz5" />
     <MESSAGE value="dz6" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz6" />
+    <MESSAGE value="dz7" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz7" />
   </component>
 </project>
