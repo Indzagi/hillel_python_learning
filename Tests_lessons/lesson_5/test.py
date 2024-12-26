@@ -1,2 +1,0 @@
-print(
-isdigit("123"))
