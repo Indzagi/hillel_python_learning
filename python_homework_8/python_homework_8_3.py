@@ -3,7 +3,7 @@ def find_unique_value(some_list):
         if some_list.count(i) == 1:
             return i
     else:
-        print('Note Unique nombers')
+        return 'Note unique nombers'
 
 
 assert find_unique_value([1, 2, 1, 1]) == 2, 'Test1'
