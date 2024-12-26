@@ -1,0 +1,2 @@
+print(
+isdigit("123"))
