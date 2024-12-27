@@ -2,6 +2,11 @@ from string import punctuation
 
 
 def is_palindrome(text):
+    """
+    Function checks text for palidrom and return True or False
+    :param text: str
+    :return: bool
+    """
     text = text.lower().replace(' ', '')
     text = ''.join(i for i in text if i not in punctuation)
     my_text_len = int(len(text) / 2)
