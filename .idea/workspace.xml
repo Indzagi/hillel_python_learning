@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz">
-      <change afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_homework_9/python_homework_9_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_9/python_homework_9_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_10/python_homework_10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_10/python_homework_10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_10/python_homework_10_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +76,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.classwork10_1.executor": "Run",
+    "Python.classwork10_2.executor": "Run",
     "Python.classwork9_1.executor": "Run",
     "Python.classwork9_2 (1).executor": "Run",
     "Python.classwork9_2.executor": "Run",
@@ -121,6 +125,9 @@
     "Python.python_homework8_1.executor": "Run",
     "Python.python_homework8_2.executor": "Run",
     "Python.python_homework8_3.executor": "Run",
+    "Python.python_homework_10_1.executor": "Run",
+    "Python.python_homework_10_2.executor": "Run",
+    "Python.python_homework_10_3.executor": "Run",
     "Python.python_homework_8_2.executor": "Run",
     "Python.python_homework_8_3 (1).executor": "Run",
     "Python.python_homework_8_3 (2).executor": "Run",
@@ -149,7 +156,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/PythonProject/hillel_python_learning/python_homework_10",
+    "last_opened_file_path": "C:/PythonProject/hillel_python_learning/python_lessons/lesson_11",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
@@ -169,11 +176,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PythonProject\hillel_python_learning\python_lessons\lesson_11" />
       <recent name="C:\PythonProject\hillel_python_learning\python_homework_10" />
       <recent name="C:\PythonProject\hillel_python_learning\python_lessons\lesson_10" />
       <recent name="C:\PythonProject\Hillel_Python_learning\Python_lesson7" />
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_7" />
-      <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons" />
@@ -182,8 +189,8 @@
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python_homework_9_2_1">
-    <configuration name="python_homework7_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.python_homework_10_3">
+    <configuration name="classwork10_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_lessons/lesson_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_7/python_homework7_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_9_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_homework5_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\PythonProject\hillel_python_learning\python_homework_9\python_homework_9_2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_5/python_homework5_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_bonus_9_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_homework_10_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_9/python_homework_bonus_9_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_10/python_homework_10_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_bonus_9_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_homework_10_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_9/python_homework_bonus_9_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_10/python_homework_10_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_bonus_9_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_homework_10_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_9/python_homework_bonus_9_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_10/python_homework_10_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python_homework_9_2_1" />
-        <item itemvalue="Python.python_homework_bonus_9_4" />
-        <item itemvalue="Python.python_homework_bonus_9_3" />
-        <item itemvalue="Python.python_homework_bonus_9_2" />
-        <item itemvalue="Python.python_homework7_4" />
+        <item itemvalue="Python.python_homework_10_3" />
+        <item itemvalue="Python.python_homework_10_2" />
+        <item itemvalue="Python.python_homework5_3" />
+        <item itemvalue="Python.python_homework_10_1" />
+        <item itemvalue="Python.classwork10_2" />
       </list>
     </recent_temporary>
   </component>
@@ -562,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736158248972</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736160489784</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1736160489784</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
