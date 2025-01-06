@@ -6,7 +6,7 @@ def difference(*numbers):
     :param numbers: list of numbers
     :return: int or float
     """
-    return 0 if numbers == () else round(max(numbers) - min(numbers), 2)
+    return 0 if not numbers else round(max(numbers) - min(numbers), 2)
 
 
 assert difference(1, 2, 3) == 2, 'Test1'
