@@ -3,7 +3,7 @@ def is_even(digit):
     Function returns bool value where
     the number is even or not
     :param digit:
-    :return: False ore True
+    :return: False or True
     """
     return not (digit % 2)
 
