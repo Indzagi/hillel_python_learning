@@ -4,7 +4,7 @@ def prime_generator(end = 0):
     my_list.append(value)
     if value % value - 1  == 0:
 
-    print(my_list)
+        print(my_list)
     return my_list
 
 
