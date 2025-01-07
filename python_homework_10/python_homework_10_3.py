@@ -5,7 +5,7 @@ def is_even(digit):
     :param digit:
     :return: False ore True
     """
-    return not(digit % 2)
+    return not (digit % 2)
 
 
 assert is_even(2) == True, 'Test1'
