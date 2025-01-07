@@ -1,4 +1,5 @@
 from math import ceil
+from inspect import isgenerator
 
 
 def prime_generator(end):
@@ -17,8 +18,6 @@ def prime_generator(end):
             yield value
         value += 1
 
-
-from inspect import isgenerator
 
 gen = prime_generator(1)
 assert isgenerator(gen) == True, 'Test0'
