@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_homework_10/python_homework_10_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_10/python_homework_10_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_homework_11/python_homework_11_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_11/python_homework_11_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_homework_11/python_homework_11_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_11/python_homework_11_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_homework_11/python_homework_11_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_11/python_homework_11_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,7 @@
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python_homework_11_1">
+  <component name="RunManager" selected="Python.python_homework_11_1 (1)">
     <configuration name="python_homework_10_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
@@ -214,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_11_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_homework_11_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_11_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_homework_11_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,7 +247,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_11/python_homework_11_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_11/python_homework_11_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python_homework_11_1" />
+        <item itemvalue="Python.python_homework_11_1 (1)" />
         <item itemvalue="Python.python_homework_10_3" />
+        <item itemvalue="Python.python_homework_11_1" />
         <item itemvalue="Python.python_homework_11_3" />
         <item itemvalue="Python.test2" />
-        <item itemvalue="Python.python_homework_11_2" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +649,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736293628937</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736331535838</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1736331535838</updated>
+    </task>
+    <task id="LOCAL-00042" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736331613026</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1736331613026</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

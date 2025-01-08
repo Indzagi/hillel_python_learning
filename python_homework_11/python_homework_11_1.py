@@ -1,8 +1,9 @@
 from math import ceil
 from inspect import isgenerator
+from typing import Generator
 
 
-def prime_generator(end: int) -> list:
+def prime_generator(end: int) -> Generator[int, None, None]:
     """
     Function generates a prime number to the parameter
     :param end: int param which limits numbers
