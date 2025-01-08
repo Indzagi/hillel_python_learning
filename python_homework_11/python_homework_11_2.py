@@ -5,7 +5,7 @@ def generate_cube_numbers(end: int) -> list:
     """
     Function return n + 1 cubed started with 2 end ended
     to the parameter
-    :param end: param which limits numbers
+    :param end: int param which limits numbers
     :return: value that is less than parameter
     """
     value = 2

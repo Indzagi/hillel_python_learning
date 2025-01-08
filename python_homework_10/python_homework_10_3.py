@@ -1,4 +1,4 @@
-def is_even(digit):
+def is_even(digit: int) -> bool:
     """
     Function returns bool value where
     the number is even or not
