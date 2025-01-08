@@ -1,7 +1,7 @@
 from inspect import isgenerator
 
 
-def generate_cube_numbers(end):
+def generate_cube_numbers(end: int) -> list:
     """
     Function return n + 1 cubed started with 2 end ended
     to the parameter

@@ -1,4 +1,4 @@
-def is_even(number):
+def is_even(number: int) -> bool:
     """
     Function checking the last digit value
     and returns bool value where
