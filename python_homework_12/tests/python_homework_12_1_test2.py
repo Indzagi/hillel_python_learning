@@ -15,4 +15,4 @@ def delete_html_tags(html_file: str, result_file: str = 'cleaned.txt') -> None:
         result_file.write(html)
 
 
-delete_html_tags('../draft.html')
+delete_html_tags('../home_work_12_1/draft.html')
