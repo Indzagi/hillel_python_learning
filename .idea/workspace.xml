@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_12/draft.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_12/python_homework_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_12/python_homework_12_2_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_12/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_12/tests/python_homework_12_1_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_12/tests/python_homework_12_1_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_11/classwork11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_12/classwork12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_12/classwork12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_13/classwork13_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_lessons/lesson_11/classwork11_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_lessons/lesson_11/classwork11_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_lessons/lesson_11/classwork10_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_12/python_homework_12_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_12/python_homework_12_2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_12/tests/python_homework_12_2_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_12/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_12/tests/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,13 +196,13 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PythonProject\hillel_python_learning\python_homework_12\tests" />
+      <recent name="C:\PythonProject\hillel_python_learning\python_homework_12\home_work_12_1" />
       <recent name="C:\PythonProject\hillel_python_learning\python_homework_12" />
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons" />
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_4" />
-      <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons\lesson_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python_homework_12_1">
+  <component name="RunManager" selected="Python.python_homework_12_1_test">
     <configuration name="python_homework_12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
@@ -229,6 +217,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/home_work_12_1/python_homework_12_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_homework_12_1_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hillel_python_learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_12/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/tests/python_homework_12_1_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,28 +269,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_homework_12_2_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="hillel_python_learning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/python_homework_12_2_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="python_homework_12_2_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
@@ -294,7 +282,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/python_homework_12_2_test.py" />
+      <option name="SCRIPT_NAME" value="C:\PythonProject\hillel_python_learning\python_homework_12\tests\python_homework_12_2_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,7 +304,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/test.py" />
+      <option name="SCRIPT_NAME" value="C:\PythonProject\hillel_python_learning\python_homework_12\tests\test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_homework_12_1_test" />
         <item itemvalue="Python.python_homework_12_1" />
         <item itemvalue="Python.python_homework_12_2 (1)" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.python_homework_12_2_test (1)" />
-        <item itemvalue="Python.python_homework_12_2_test" />
       </list>
     </recent_temporary>
   </component>
@@ -698,7 +686,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736333736926</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736950054090</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1736950054090</updated>
+    </task>
+    <task id="LOCAL-00045" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736950166386</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1736950166386</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
