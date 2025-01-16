@@ -1,4 +1,7 @@
-def delete_html_tags(html_file: str, result_file: str = 'cleaned.txt') -> None:
+import typing
+
+
+def delete_html_tags(html_file: typing.Any, result_file: typing.Any = 'cleaned.txt') -> None:
     """
     Function take text in 'draft.html' delete our html-tags
     and save rezult in file 'cleaned.txt'

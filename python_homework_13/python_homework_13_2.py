@@ -40,7 +40,7 @@ class Counter:
         """
         self.min_value = min_min
 
-    def step_up(self) -> None or ValueError:
+    def step_up(self) -> None:
         """
         Function adds one to the counter until
         it reaches the maximum value,
@@ -52,7 +52,7 @@ class Counter:
         else:
             raise ValueError("Досягнуто максимального значення")
 
-    def step_down(self) -> None or ValueError:
+    def step_down(self) -> None:
         """
         Function subtraction one to the counter until
         it reaches the minimum value,

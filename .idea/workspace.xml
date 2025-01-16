@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz">
-      <change afterPath="$PROJECT_DIR$/python_homework_13/python_homework_13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_13/test/python_homework_13_2_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_12/home_work_12_1/python_homework_12_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_12/home_work_12_1/python_homework_12_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_homework_13/python_homework_13_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_13/python_homework_13_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,119 +68,120 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.classwork10_1.executor": "Run",
-    "Python.classwork10_2.executor": "Run",
-    "Python.classwork12_1.executor": "Run",
-    "Python.classwork13_1.executor": "Run",
-    "Python.classwork9_1.executor": "Run",
-    "Python.classwork9_2 (1).executor": "Run",
-    "Python.classwork9_2.executor": "Run",
-    "Python.classwork9_3 (1).executor": "Run",
-    "Python.classwork9_3.executor": "Run",
-    "Python.lesson_3_classwork.executor": "Run",
-    "Python.lesson_3_classwork_2.executor": "Run",
-    "Python.lesson_3_classwork_3.executor": "Run",
-    "Python.lesson_3_classwork_4.executor": "Run",
-    "Python.lesson_3_classwork_5.executor": "Run",
-    "Python.lesson_4_classwork.executor": "Run",
-    "Python.lesson_4_classwork_1.executor": "Run",
-    "Python.lesson_5_classwork.executor": "Run",
-    "Python.lesson_5_classwork_2.executor": "Run",
-    "Python.lesson_6_classwork_1.executor": "Run",
-    "Python.lesson_6_classwork_2.executor": "Run",
-    "Python.lesson_6_classwork_3.executor": "Run",
-    "Python.lesson_7_classwork_1.executor": "Run",
-    "Python.lesson_8_classwork_1.executor": "Run",
-    "Python.lesson_8_classwork_2.executor": "Run",
-    "Python.lesson_8_classwork_3.executor": "Run",
-    "Python.python_homework1.executor": "Run",
-    "Python.python_homework2_1.executor": "Run",
-    "Python.python_homework2_2.executor": "Run",
-    "Python.python_homework3_1.executor": "Run",
-    "Python.python_homework3_2.executor": "Run",
-    "Python.python_homework3_3.executor": "Run",
-    "Python.python_homework4_1.executor": "Run",
-    "Python.python_homework4_1_test.executor": "Run",
-    "Python.python_homework4_2.executor": "Run",
-    "Python.python_homework4_3.executor": "Run",
-    "Python.python_homework5_1.executor": "Run",
-    "Python.python_homework5_2.executor": "Run",
-    "Python.python_homework5_3.executor": "Run",
-    "Python.python_homework6_1.executor": "Run",
-    "Python.python_homework6_2.executor": "Run",
-    "Python.python_homework6_3.executor": "Run",
-    "Python.python_homework7_1.executor": "Run",
-    "Python.python_homework7_1_1 (1).executor": "Run",
-    "Python.python_homework7_1_1y.executor": "Run",
-    "Python.python_homework7_2.executor": "Run",
-    "Python.python_homework7_3.executor": "Run",
-    "Python.python_homework7_3_1.executor": "Run",
-    "Python.python_homework7_3_2.executor": "Run",
-    "Python.python_homework7_4.executor": "Run",
-    "Python.python_homework8_1.executor": "Run",
-    "Python.python_homework8_2.executor": "Run",
-    "Python.python_homework8_3.executor": "Run",
-    "Python.python_homework_10_1.executor": "Run",
-    "Python.python_homework_10_2.executor": "Run",
-    "Python.python_homework_10_3 (1).executor": "Run",
-    "Python.python_homework_10_3.executor": "Run",
-    "Python.python_homework_11_1 (1).executor": "Run",
-    "Python.python_homework_11_1.executor": "Run",
-    "Python.python_homework_11_2.executor": "Run",
-    "Python.python_homework_11_3.executor": "Run",
-    "Python.python_homework_12_1 (1).executor": "Run",
-    "Python.python_homework_12_1.executor": "Run",
-    "Python.python_homework_12_1_test (1).executor": "Run",
-    "Python.python_homework_12_1_test.executor": "Run",
-    "Python.python_homework_12_2 (1).executor": "Run",
-    "Python.python_homework_12_2.executor": "Run",
-    "Python.python_homework_12_2_test (1).executor": "Run",
-    "Python.python_homework_12_2_test.executor": "Run",
-    "Python.python_homework_13_1.executor": "Run",
-    "Python.python_homework_13_1_test.executor": "Run",
-    "Python.python_homework_13_2_test.executor": "Run",
-    "Python.python_homework_8_2.executor": "Run",
-    "Python.python_homework_8_3 (1).executor": "Run",
-    "Python.python_homework_8_3 (2).executor": "Run",
-    "Python.python_homework_8_3 (3).executor": "Run",
-    "Python.python_homework_9_1 (1).executor": "Run",
-    "Python.python_homework_9_1.executor": "Run",
-    "Python.python_homework_9_2.executor": "Run",
-    "Python.python_homework_9_2_1.executor": "Run",
-    "Python.python_homework_bonus_1.executor": "Run",
-    "Python.python_homework_bonus_2.executor": "Run",
-    "Python.python_homework_bonus_3.executor": "Run",
-    "Python.python_homework_bonus_4 (1).executor": "Run",
-    "Python.python_homework_bonus_4.executor": "Run",
-    "Python.python_homework_bonus_8_4.executor": "Run",
-    "Python.python_homework_bonus_9_1.executor": "Run",
-    "Python.python_homework_bonus_9_2.executor": "Run",
-    "Python.python_homework_bonus_9_3.executor": "Run",
-    "Python.python_homework_bonus_9_4.executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.test_lesson_2.2.executor": "Run",
-    "Python.test_lesson_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/PythonProject/hillel_python_learning/python_homework_12",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.classwork10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork12_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork13_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork9_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork9_3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.classwork9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_classwork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_classwork_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_classwork_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_classwork_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_classwork_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_4_classwork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_4_classwork_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_5_classwork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_5_classwork_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_6_classwork_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_6_classwork_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_6_classwork_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_7_classwork_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_8_classwork_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_8_classwork_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_8_classwork_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework4_1_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_1_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_1_1y.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_10_3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_10_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_11_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_11_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_11_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_1_test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_1_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_2_test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_12_2_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_13_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_13_1_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_13_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_13_2_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_8_3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_8_3 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_8_3 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_9_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_9_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_8_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_homework_bonus_9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_lesson_2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_lesson_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PythonProject/hillel_python_learning/python_homework_12&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Hillel_Python_learning" is-module-sdk="true">
@@ -205,8 +206,8 @@
       <recent name="C:\PythonProject\Hillel_Python_learning\Tests_lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python_homework_13_2">
-    <configuration name="python_homework_12_1_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.python_homework_12_1">
+    <configuration name="python_homework_12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_python_learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_12/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_homework_12/home_work_12_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/tests/python_homework_12_1_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_homework_12/home_work_12_1/python_homework_12_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_homework_12_1" />
         <item itemvalue="Python.python_homework_13_2" />
         <item itemvalue="Python.python_homework_13_2_test" />
         <item itemvalue="Python.python_homework_13_1" />
         <item itemvalue="Python.python_homework_13_1_test" />
-        <item itemvalue="Python.python_homework_12_1_test" />
       </list>
     </recent_temporary>
   </component>
@@ -721,7 +722,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736968047776</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736971257670</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1736971257670</updated>
+    </task>
+    <task id="LOCAL-00049" summary="dz">
+      <option name="closed" value="true" />
+      <created>1736971310557</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1736971310557</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
