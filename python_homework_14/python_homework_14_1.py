@@ -58,8 +58,8 @@ class Student(Human):
 class Group:
     """
     class creates a Group object with the group name
-    attribute has multiple functions, adding student,
-    searching student and deleting student
+    attribute has multiple functions, adding student if
+    there are no more than 10, searching student and deleting student
     """
 
     def __init__(self, number: str) -> None:
@@ -73,10 +73,16 @@ class Group:
 
     def add_student(self, student: Student) -> None:
         """
-        Function add object to set group
+        Function adds an object to set group
+        provided that there are no more than 10 students
         :param student: class Student
         """
-        self.group.add(student)
+        group_size = len(self.group)
+        if group_size < 10:
+            self.group.add(student)
+        else:
+            raise ValueError("Group size exceeded, "
+                             "group can only consist of 10 people")
 
     def delete_student(self, last_name: str) -> None:
         """
@@ -90,7 +96,7 @@ class Group:
 
     def find_student(self, last_name: str) -> object or None:
         """
-        Function finds the student by last name
+        Function
         :param last_name: str
         :return: Object or None
         """
@@ -127,13 +133,46 @@ st1 = Student('Male', 30, 'Steve',
               'Jobs', 'AN142')
 st2 = Student('Female', 25, 'Liza',
               'Taylor', 'AN145')
+st3 = Student('Male', 21, 'Jon',
+              'Miller', 'AN146')
+st4 = Student('Female', 23, 'Gill',
+              'Walentin', 'AN147')
+st5 = Student('Male', 25, 'Garold',
+              'Hang', 'AN148')
+st6 = Student('Female', 27, 'Olena',
+              'Parova', 'AN149')
+st7 = Student('Male', 29, 'Torn',
+              'Qvon', 'AN150')
+st8 = Student('Female', 20, 'Hellis',
+              'Fargo', 'AN151')
+st9 = Student('Male', 22, 'David',
+              'Kild', 'AN1452')
+st10 = Student('Female', 24, 'Taylor',
+               'Swift', 'AN153')
+st11 = Student('Male', 26, 'Bara',
+               'Dur', 'AN154')
+
 gr = Group('PD1')
 gr.add_student(st1)
 gr.add_student(st2)
 print(gr)
-assert str(gr.find_student('Jobs')) == str(st1), 'Test1'
-assert gr.find_student('Jobs2') is None, 'Test2'
-assert isinstance(gr.find_student('Jobs'), Student) is True, 'Метод поиска должен возвращать экземпляр'
+assert str(gr.find_student('Jobs')) == str(st1)
+assert gr.find_student('Jobs2') is None
+assert isinstance(gr.find_student('Jobs'), Student) is True
+gr.add_student(st3)
+gr.add_student(st4)
+gr.add_student(st5)
+gr.add_student(st6)
+gr.add_student(st7)
+gr.add_student(st8)
+gr.add_student(st9)
+gr.add_student(st10)
+try:
+    gr.add_student(st11)
+except ValueError as e:
+    print(e)
+
 gr.delete_student('Taylor')
+gr.add_student(st11)
 print(gr)
 gr.delete_student('Taylor')
