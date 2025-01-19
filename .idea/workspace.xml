@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz">
-      <change afterPath="$PROJECT_DIR$/python_homework_14/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/python_homework_14_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/python_homework_14_2/group_students/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/python_homework_14_2/group_students/module_group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/python_homework_14_2/group_students/module_human.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/python_homework_14_2/group_students/module_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/python_homework_14_2/main_group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_homework_14/test/python_homework_14_1_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/classwork14_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/classwork14_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/geometry/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/geometry/module_perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/geometry/module_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/geometry/module_volume.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/main_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/main_geomentry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/my_package/module_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/my_package/module_mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/my_package/module_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/som_function/main_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/som_function/some_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_lessons/lesson_14/some_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_homework_13/python_homework_13_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_homework_13/python_homework_13_1.py" afterDir="false" />
-    </list>
+    <list default="true" id="866af00f-593c-4bd6-8097-262459604793" name="Changes" comment="dz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -381,14 +355,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733175894317</updated>
-    </task>
-    <task id="LOCAL-00002" summary="dz2">
-      <option name="closed" value="true" />
-      <created>1733185535294</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1733185535294</updated>
     </task>
     <task id="LOCAL-00003" summary="dz2">
       <option name="closed" value="true" />
@@ -774,7 +740,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737023136319</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="dz">
+      <option name="closed" value="true" />
+      <created>1737305670078</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1737305670078</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
