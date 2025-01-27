@@ -69,7 +69,7 @@ class Group:
         for my_stud_list[my_iter] in my_stud_list:
             my_temp_stud = str(my_stud_list[my_iter]).split()
             all_students = (f"{all_students}\nStudent {my_iter + 1}:"
-                            f" {my_temp_stud[0]} {my_temp_stud[1]}")
-#                            f", {my_temp_stud[2]} age, {my_temp_stud[3]}")
+                            f" {my_temp_stud[0]} {my_temp_stud[1]}"
+                            f", {my_temp_stud[2]} age, {my_temp_stud[3]}")
             my_iter += 1
         return f'Number: {self.number}{all_students}'

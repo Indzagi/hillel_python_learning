@@ -18,12 +18,22 @@ class Student(Human):
         super().__init__(gender, age, first_name, last_name)
         self.record_book = record_book
 
-    def comparison(self) -> str:
+    def __eq__(self, other: object) -> str:
+        """
+        :param other: object
+        :return: str
+        """
         return f"{self.first_name} {self.last_name}"
+
+    def __hash__(self) -> hash:
+        """
+        :return: hash
+        """
+        return hash(str(self))
 
     def __str__(self) -> str:
         """
         :return: str
         """
-        return f"{self.first_name} {self.last_name}"
-#                f" {self.age} {self.gener} {self.record_book}")
+        return (f"{self.first_name} {self.last_name} "
+                f"{self.age} {self.gener} {self.record_book}")
